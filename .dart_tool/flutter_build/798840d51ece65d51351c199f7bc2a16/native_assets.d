@@ -1,0 +1,1 @@
+ /Users/yunhu/StudioProjects/Food_delover/.dart_tool/flutter_build/798840d51ece65d51351c199f7bc2a16/native_assets.yaml: 
